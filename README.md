@@ -1,4 +1,4 @@
-# Demo for upcoming
+# Demo Project
 
 ### Key Features
 - **Demo data**:
